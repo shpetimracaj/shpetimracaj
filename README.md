@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Shpetim Racaj 👋
 
-<!--
-**shpetimracaj/shpetimracaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front End Developer from [Your Location] with a drive for creating interactive and user-friendly web applications. I specialize in crafting sleek, responsive designs using the latest technologies and frameworks.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development projects using React.js and Vue.js.
+- 🌱 I’m currently learning more about advanced CSS techniques, JavaScript frameworks, and exploring TypeScript.
+- 👯 I’m looking to collaborate on open source projects and innovative web app ideas.
+- 🤔 I’m looking for help with learning more about web performance optimization.
+
+## Skills and Experience
+
+- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript
+- 🖌 **Frameworks/Libraries:** React, Vue, Angular, SASS, Bootstrap
+- 🛠 **Tools:** Git, Webpack, Babel, NPM, Jest
+- 📈 **Best Practices:** Responsive Design, Web Accessibility, SEO Principles
+
+## Projects
+
+Below are some of the projects I've worked on. Check them out to get a better idea of my capabilities and interests.
+
+- **Project Name 1:** Weight Tracking App [Link to Project](#)
+- **Project Name 2:** InvestmentCalculator [Link to Project](https://github.com/shpetimracaj/InvestmentCalculator)
+- **Project Name 3:** DualClock [Link to Project](https://github.com/shpetimracaj/DualClock)
