@@ -1,6 +1,6 @@
 # Hi there, I'm Shpetim Racaj 👋
 
-I'm a passionate Front End Developer from [Your Location] with a drive for creating interactive and user-friendly web applications. I specialize in crafting sleek, responsive designs using the latest technologies and frameworks.
+I'm a passionate Front End Developer with a drive for creating interactive and user-friendly web applications. I specialize in crafting sleek, responsive designs using the latest technologies and frameworks.
 
 ## About Me
 
