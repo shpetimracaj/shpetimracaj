@@ -5,13 +5,11 @@ I'm a passionate Front End Developer from [Your Location] with a drive for creat
 ## About Me
 
 - 🔭 I’m currently working on web development projects using React.js and Vue.js.
-- 🌱 I’m currently learning more about advanced CSS techniques, JavaScript frameworks, and exploring TypeScript.
-- 👯 I’m looking to collaborate on open source projects and innovative web app ideas.
-- 🤔 I’m looking for help with learning more about web performance optimization.
+- 🌱 I’m currently learning more about advanced CSS techniques, JavaScript frameworks, and exploring C++.
 
 ## Skills and Experience
 
-- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript
+- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript.
 - 🖌 **Frameworks/Libraries:** React, Vue, Angular, SASS, Bootstrap
 - 🛠 **Tools:** Git, Webpack, Babel, NPM, Jest
 - 📈 **Best Practices:** Responsive Design, Web Accessibility, SEO Principles
