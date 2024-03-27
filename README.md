@@ -18,6 +18,6 @@ I'm a passionate Front End Developer with a drive for creating interactive and u
 
 Below are some of the projects I've worked on. Check them out to get a better idea of my capabilities and interests.
 
-- **Project Name 1:** Weight Tracking App [Link to Project](#)
+- **Project Name 1:** Weight Tracking App [Link to Project](https://github.com/shpetimracaj/WeightTrackingApp)
 - **Project Name 2:** InvestmentCalculator [Link to Project](https://github.com/shpetimracaj/InvestmentCalculator)
 - **Project Name 3:** DualClock [Link to Project](https://github.com/shpetimracaj/DualClock)
