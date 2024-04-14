@@ -9,7 +9,7 @@ I'm a passionate Front End Developer with a drive for creating interactive and u
 
 ## Skills and Experience
 
-- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript.
+- 💻 **Languages:** HTML, CSS, JavaScript, TypeScript, JAVA, C++
 - 🖌 **Frameworks/Libraries:** React, Vue, Angular, SASS, Bootstrap
 - 🛠 **Tools:** Git, Webpack, Babel, NPM, Jest
 - 📈 **Best Practices:** Responsive Design, Web Accessibility, SEO Principles
